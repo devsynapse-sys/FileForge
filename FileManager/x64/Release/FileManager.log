@@ -1,0 +1,11 @@
+﻿  ConsoleUtils.cpp
+  DirectoryViewer.cpp
+  FileManager.cpp
+  FileOperations.cpp
+F:\Publishing\FileManager\FileOperations\FileOperations.cpp(127,36): warning C4101: e: неиспользованная локальная переменная
+  main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1547 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  FileManager.vcxproj -> F:\Publishing\FileManager\x64\Release\FileManager.exe
